@@ -1,4 +1,4 @@
-# hw-02
+# hw-03
 hw-03 - Interactive Webpage
 
 Link to GitHub Pages: `[insert your clickable hyperlink here]`
